@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ester-avv
 - 👀 I’m interested in music, sports and books.
-- 📖 I have experience with: JavaScript | HTML | CSS | React | Redux | RTL | Jest 
+- 📖 I have experience with: JavaScript | HTML | CSS | React | Redux | RTL | Jest | Node.js
 - 🌱 I’m currently learning Docker, SQL and MongoDB.
 - 📫 How to reach me: you can send me an email through ester.av@hotmail.com.
 
