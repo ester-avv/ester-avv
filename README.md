@@ -1,4 +1,4 @@
-## Hey, I'm Ester, a full-stack developer 🚀  
+## Hello, I'm Ester 🚀  
   
 
 <a href="https://github.com/ester-avv" target="_blank">
