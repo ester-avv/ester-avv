@@ -29,10 +29,10 @@ My career transitioned from civil engineering to software development in 2022,  
 -  📚 I have experience with: JavaScript | HTML | CSS | React | Redux | RTL | Jest | Node.js | Docker and SQL  
   
 
-- 🌱 I’m currently learning POO and MongoDB.  
+- 🌱 I’m currently learning Python and C#  
   
 
-- ⚡ Interesting facts: I’m interested in music, sports and books.  
+- ⚡ Interesting facts: I’m interested in music, sports, and books.  
   
 
 - 📫 How to reach me: you can send me an email through ester.av@hotmail.com.  
