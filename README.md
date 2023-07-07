@@ -35,7 +35,7 @@ My career transitioned from civil engineering to software development in 2022,  
 - ⚡ Interesting facts: I’m interested in music, sports, and books.  
   
 
-- 📫 How to reach me: you can send me an email through ester.av@hotmail.com.  
+- 📫 How to reach me: you can send me an email through ester.av@hotmail.com or ester.anj@gmail.com.
 
 
 </td><td valign="top" width="50%">
