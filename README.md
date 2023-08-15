@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!  
-I’m a full-stack developer in progress. I have been studying JS and web tools for a year, I am continuously learning about software development, and right now I am learning some Python and C#.
+I’m a full-stack developer in progress. I have been studying JS and web tools for a year, I am continuously learning about software development, and right now I am learning Python and C#.
 
 My career transitioned from civil engineering to software development in 2022,  I was always amazed by the technology and new solutions, and that's why I jumped into this software journey.  
   
@@ -26,7 +26,7 @@ My career transitioned from civil engineering to software development in 2022,  
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
--  📚 I have experience with: JavaScript | HTML | CSS | React | Redux | RTL | Jest | Node.js | Docker and SQL  
+-  📚 I have experience with: JavaScript | HTML | CSS | React | Redux | RTL | Jest | Node.js | Docker | SQL | Typescript | Python  
   
 
 - 🌱 I’m currently learning Python and C#  
